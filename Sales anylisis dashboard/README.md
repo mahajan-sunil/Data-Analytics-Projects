@@ -11,7 +11,7 @@ This project is an interactive Sales Analysis Dashboard created using Power BI. 
 
 ## Dataset Information
 Dataset Name:
-- Sales_Analysis_Dashboard_Datasets.xlsx
+- Sales_Analysis_Datasets.xlsx
 
 The dataset contains:
 - Sales data
